@@ -1,7 +1,7 @@
 # Digimon-Counters
 Digimon TCG Counters (for now only DP +/- is available)
 
-Print in place design.
+Print in place design (knob/rotary mechanism).
 
 Files are provided as both, STL and 3mf.
 
