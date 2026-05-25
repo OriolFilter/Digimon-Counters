@@ -19,17 +19,17 @@ Source provided in the [files](./files) directory (FCStd file).
 
 ![wireframe_base.png](./src/irl_print_bluematte.jpg)
 
-## Printing
+## Printing/recommendations/notes
 
-I only tested/used the Bambulab P1S printer with PLA Matte from Sunlu. I would recommend using matte colours, but only have experience with few.
+Only tested/used the Bambulab P1S printer with PLA Matte from Sunlu.
 
-Rotating the knob feels smooth/with barely any friction.
-
-Used a single colour due to time/cost efficiency, slicers (such as OrcaSlicer) allow for coloring stuff, as well the file ban be modified to exclude the labels, in case someone wants to make different labels/or paint/colour instead of engraving.
+Regarding the colours to use, I believe matter would be best, at latest from my experience/the few colours I managed to get hold of.
 
 Printing it flat instead of standing worked fine/without issues.
 
-The clearance value is set to 0.4mm in the spreadsheet, it can be modified in the spreadsheet.
+Rotating the knob feels smooth/with barely any friction, yet the clearance value is set to 0.4mm in the spreadsheet, it can be modified in the spreadsheet.
+
+Used a single colour due to time/cost efficiency, but slicers (such as OrcaSlicer) allow for coloring stuff, as well the file ban be modified to exclude the labels, in case someone wants to make different labels/or paint/colour instead of engraving.
 
 ## Other Counters?
 
