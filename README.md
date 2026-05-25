@@ -3,6 +3,10 @@ Digimon TCG Counters (for now only DP +/- is available)
 
 Print in place design.
 
+Files are provided as both, STL and 3mf.
+
+I recommend using the 3mf over the STL, as the later is mostly provided so can be rendered from the repository. 
+
 ## Designed with FreeCAD
 
 Source provided in the [files](./files) directory (FCStd file).
