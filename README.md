@@ -43,6 +43,8 @@ Would like to do more in the future (now that I have a base to work on).
 
 Feel free to request something, as otherwise I will only bother when I need them.
 
+## License
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
