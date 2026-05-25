@@ -5,7 +5,7 @@ Print in place design (knob/rotary mechanism).
 
 Files are provided as both, STL and 3mf.
 
-I recommend using the 3mf over the STL, as the later is mostly provided so can be rendered from the repository. 
+If the 3mf file is used, import as "single object with multiple parts".
 
 ## Designed with FreeCAD
 
@@ -27,9 +27,9 @@ Regarding the colours to use, I believe matter would be best, at latest from my 
 
 Printing it flat instead of standing worked fine/without issues.
 
-Rotating the knob feels smooth/with barely any friction, yet the clearance value is set to 0.4mm in the spreadsheet, it can be modified in the spreadsheet.
+Rotating the knob feels smooth/with barely any friction, yet the clearance value is set to 0.3mm in the spreadsheet, it can be modified in the spreadsheet.
 
-Used a single colour due to time/cost efficiency, but slicers (such as OrcaSlicer) allow for coloring stuff, as well the file ban be modified to exclude the labels, in case someone wants to make different labels/or paint/colour instead of engraving.
+Used a single colour due to time/cost efficiency, but slicers (such as OrcaSlicer) allow for coloring stuff.
 
 ## Mechanism
 
