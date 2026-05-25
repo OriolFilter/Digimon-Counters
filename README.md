@@ -17,7 +17,7 @@ Source provided in the [files](./files) directory (FCStd file).
 
 ![wireframe_base.png](./src/wireframe_base.png)
 
-![wireframe_base.png](./src/irl_print_bluematte.jpg)
+![irl_print_bluematte.jpg](./src/irl_print_bluematte.jpg)
 
 ## Printing/recommendations/notes
 
@@ -30,6 +30,12 @@ Printing it flat instead of standing worked fine/without issues.
 Rotating the knob feels smooth/with barely any friction, yet the clearance value is set to 0.4mm in the spreadsheet, it can be modified in the spreadsheet.
 
 Used a single colour due to time/cost efficiency, but slicers (such as OrcaSlicer) allow for coloring stuff, as well the file ban be modified to exclude the labels, in case someone wants to make different labels/or paint/colour instead of engraving.
+
+## Mechanism
+
+Just a protrusion.
+
+![inner_mechanism.png](./src/inner_mechanism.png)
 
 ## Other Counters?
 
